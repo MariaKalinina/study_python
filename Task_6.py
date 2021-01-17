@@ -9,3 +9,4 @@ while first_day <= result:
     day_number = day_number + 1
     first_day = first_day * 1.1
 print(f'День, когда вы достигнете результата: {day_number}')
+
